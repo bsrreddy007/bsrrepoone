@@ -1,5 +1,5 @@
 I am txt file 
 
 text new linesss
-git push
+git stash example
 
